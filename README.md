@@ -29,7 +29,10 @@ Here are some ideas to get you started:
 ### Skills
 - c/c++, python, ros
 
-### I'm looking for a job
-<div align=center>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kty5989@gmail.com)](mailto:kty5989@gmail.com)
+## I'm currently looking for a job
+
+<div align=left>
+  
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kty5989@gmail.com)](mailto:kty5989@gmail.com)
 </div>
+
