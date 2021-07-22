@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ### Skills
 - c/c++, python, ros
 
-## I'm currently looking for a job
+## More detail see my [portfolio](https://github.com/KimHyung/portfolio)
 
 <div align=left>
   
