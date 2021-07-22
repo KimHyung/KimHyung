@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 ### Skills
 - c/c++, python, ros
 
-## More detail see my [portfolio](https://github.com/KimHyung/portfolio)
-
+### More detail see my [portfolio](https://github.com/KimHyung/portfolio)
+<!-- 
 <div align=left>
   
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kty5989@gmail.com)](mailto:kty5989@gmail.com)
 </div>
-
+ -->
